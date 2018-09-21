@@ -14,10 +14,10 @@
 </header>
 
 <aside>
-좌측메뉴 : 조성환
+	<jsp:include page="left.jsp" flush="false"></jsp:include>
 </aside>
 <section>
-내용 : 조성환
+	<jsp:include page="content.jsp" flush="false"></jsp:include>
 </section>
 
 <footer>
