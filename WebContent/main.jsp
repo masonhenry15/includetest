@@ -21,7 +21,7 @@
 </section>
 
 <footer>
-하단메뉴 : 강병훈
+<jsp:include page="footer.jsp" flush="false"></jsp:include>
 </footer>
 </body>
 </html>
